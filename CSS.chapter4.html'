@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tstprop</title>
+    <style>
+        p{
+            background-color: red;
+            width: 1134px;
+            height: 645px;
+            color: white;
+            /* text-decoration: green wavy underline; */
+            text-transform:capitalize ;
+            /* line-height: 15px; */
+            font-size: 23px; 
+
+        }
+    </style>
+</head>
+<body>
+    <p>Hey there! Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet aspernatur asperiores consequatur tempore fugit laborum, labore accusamus recusandae saepe facilis modi incidunt quod non quidem laboriosam numquam ad voluptatem.
+    </p>
+    
+</body>
+</html>
